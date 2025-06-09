@@ -1,6 +1,7 @@
 .DS_Store
 .ipynb_checkpoints
 .env
+archive
 data
 models
 my_session.session
